@@ -42,6 +42,7 @@
 
 .lista-menu-titulo {
   color: Var (- - laranja);
+  font-weight;700:
 }
 
 .lista-menu-link {
@@ -52,3 +53,6 @@
   text-transform: upperiase;
 }
 
+.container-botao { 
+  display: nome;
+}
