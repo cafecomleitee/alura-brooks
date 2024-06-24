@@ -1,1 +1,13 @@
+carrosel-titulo{ 
+  color:var(--laranja)
+  text-align: center;
+  text_transform:upperca;
+  background-color:var(--branco)
+  font-size:18px;
+  font-weight:700;
+  podding:1em 0 0.5em 0;
+}
 
+.super-slide img { 
+width:100%;
+} 
